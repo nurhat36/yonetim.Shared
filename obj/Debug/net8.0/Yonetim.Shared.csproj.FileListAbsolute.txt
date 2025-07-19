@@ -1,0 +1,15 @@
+C:\Users\Nurhat\source\repos\Yonetim.Shared\obj\Debug\net8.0\Yonetim.Shared.csproj.AssemblyReference.cache
+C:\Users\Nurhat\source\repos\Yonetim.Shared\obj\Debug\net8.0\Yonetim.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nurhat\source\repos\Yonetim.Shared\obj\Debug\net8.0\Yonetim.Shared.AssemblyInfoInputs.cache
+C:\Users\Nurhat\source\repos\Yonetim.Shared\obj\Debug\net8.0\Yonetim.Shared.AssemblyInfo.cs
+C:\Users\Nurhat\source\repos\Yonetim.Shared\obj\Debug\net8.0\Yonetim.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Nurhat\source\repos\Yonetim.Shared\obj\Debug\net8.0\Yonetim.Shared.sourcelink.json
+C:\Users\Nurhat\source\repos\Yonetim.Shared\bin\Debug\net8.0\Yonetim.Shared.deps.json
+C:\Users\Nurhat\source\repos\Yonetim.Shared\bin\Debug\net8.0\Yonetim.Shared.runtimeconfig.json
+C:\Users\Nurhat\source\repos\Yonetim.Shared\bin\Debug\net8.0\Yonetim.Shared.dll
+C:\Users\Nurhat\source\repos\Yonetim.Shared\bin\Debug\net8.0\Yonetim.Shared.pdb
+C:\Users\Nurhat\source\repos\Yonetim.Shared\obj\Debug\net8.0\Yonetim.Shared.dll
+C:\Users\Nurhat\source\repos\Yonetim.Shared\obj\Debug\net8.0\refint\Yonetim.Shared.dll
+C:\Users\Nurhat\source\repos\Yonetim.Shared\obj\Debug\net8.0\Yonetim.Shared.pdb
+C:\Users\Nurhat\source\repos\Yonetim.Shared\obj\Debug\net8.0\Yonetim.Shared.genruntimeconfig.cache
+C:\Users\Nurhat\source\repos\Yonetim.Shared\obj\Debug\net8.0\ref\Yonetim.Shared.dll
