@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Yonetim.Shared")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9caf5a41d275ce6304add8c312a9762c374a669")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df82ced434f76c0b5d8c2affcf849b0c4c46f2e6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Yonetim.Shared")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Yonetim.Shared")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
